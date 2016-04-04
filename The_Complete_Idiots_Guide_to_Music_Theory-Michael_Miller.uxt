@@ -97,6 +97,81 @@ Chapter 9 - Chords
   chords can be added to music by simply writing the name of the chord over the staff
   chord rhythm patterns can be specified in slash notation
 
+Chapter 10 - Chord Progressions
+
+  Staying within a scale for forming triads at each scale degree creates a specific
+    chord type at for each chord.
+
+  Major - I     ii     iii    IV     V      vi     viidim
+  Minor - i     iidim  III    iv     v      VI     VII
+    the relative minor is also the progression of the vi chord in the major scale
+
+  The I, IV, and V (tonic, subdominant, and dominant) carry the most weight.
+
+  Gnerally, the purpose of the chord progression is to get back home to the tonic.
+
+  Certain chords lead to others, and this chart can be used to make progressions.
+    I      any
+    ii     IV, V, viidim
+    iii    ii, IV, vi
+    IV     I, iii, V, viidim
+    V      I
+    vi     ii, IV, V, I
+    viidim I, iii
+
+  The ending of a musical phrase is often marked by a cadence, the use of chords to set
+    up tension and then resolution.
+    perfect cadence -- V-I
+    plagal cadence -- IV-I
+    imperfect cadence -- I-V, ii-V, IV-V, vi-V
+    interrupted cadence -- V-IV, V-vi, V-ii, V-V7
+
+  Common Chord Progressions
+    I-IV
+    I-V
+    I-IV-V or I-IV-V7
+    I-IV-V-IV
+    I-V-vi-IV
+    I-ii-IV-V
+    I-ii-IV
+    I-vi-ii-V
+    I-vi-iV-V
+    I-vi-ii-V7-ii
+    IV-I-IV-V - also used as a jazz turnarond
+    ii-V-I or ii7-V7-I7
+    I-IV-viidim-iii-vi-ii-V-I - in-scale circle of fifths progression
+    C-C7-F-F7-...-G-G7-C - actual circle of fifths
+    I-I-I-I-IV-IV-I-I-V7-V7-I-I - a 12-bar blues pattern
+
+  Chords and Melodies
+
+    Melody first
+      Usually you can find a common chord progression that fits the melody.
+      Figuring out the timing of the progression might be challenging.
+      Sometimes minor variations are also necessary.
+      Tips --
+        Go common first. I-IV-V fits so many things.
+        The main notes of the melody (usually the first and third beat) should be a note
+          from the underlying triad of the implied chord progressions.
+        Simplify the melody when looking for the chord progression.
+        Make sure you're in the right key. "Home" of the melody is probably the tonic.
+        Generally, the slower the tempo, the more chord changes.
+        Work backward from the end, and find the cadence to get there.
+        Usually new chords are introduced at the first and third beat.
+
+    Chords first
+      Play the progression many times to get the feel before writing the melody.
+        A melody may naturally come, and then you just have to figure out the notes.
+      Tips for more prescribed approach --
+        Stay within the notes of the chords.
+        Try to find a logcal line between the main notes in different measures.
+        Use notes that emphasize the quality of the underlying chords.
+        Once you pick main tones, fill in the gaps with passing tones.
+          passing tone - note of an upcoming chord played early
+        Come up with an interesting rhythmic motif, and repeat it through the melody.
+
+
+
 
 
 
