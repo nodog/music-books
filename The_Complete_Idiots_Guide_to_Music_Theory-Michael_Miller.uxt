@@ -445,3 +445,101 @@ Chapter 15 - Harmony and Counterpoint
 
 Chapter 16 - Chord Substitutions and Turnarounds
 
+  - Ways to spice up a chord progression: extend the chords, alter the bass line, and substitute chords.
+
+  Extending a Good Thing
+
+    Simplest way to spice things up is to use seventh chords.
+    Seventh chords, especially dominant sevenths, are seen often in popular music.
+    Sixths, ninths, and other extensions are seen in jazz more.
+    The V7 and ii7 chords have, at times, been more common than their triad.
+    In jazz, the ninth, eleventh, and thirteenth are seen more than triads and sevenths.
+    The more notes you add to your chords, the more complex the harmonies, and fuller the sound.
+
+  Altering the Bass
+
+    Often called slash chords because it is notated as F/C or F chord played over C bass.
+
+    Create chords with a non-root note in the bass to achieve these effects:
+    - By putting a non-root note in the bass, you can dictate a specific chord inversion.
+    - By treating the bass note as a separate entity, you can create moving bass lines with melodic interest.
+    - By adding a nonchord note in the bass, you create a different chord with a different harmonic structure.
+
+    Carole King - fan of minor 7th chord with fourth in the bass
+    Beach Boys - Pet Sounds album
+
+  Two Chords Are Better Than One
+                                                                                          C
+    When a horizontal line is used in the notation it is litterally playing both chords.  -
+      Indicates a full C chord played over a full G chord.                                G
+    This is called a compound chord.
+
+  One Good Chord Can Replace Another
+
+    - Chord substitution is substituting a different chord for the one that's written.
+    - The key is to substitute an ordinary chord or progression with one that serves the same function,
+      but in a more interesting manner.
+
+    Diatonic Substitution
+
+      The easiest form of substitution replaces a chord with a related chord a third above or below the original.
+      The replacement chord will share two notes with the original.
+      This is called diatonic substitution, because you're just choosing different notes from the same scale.
+      For example, the I chord can be replaced with the vi chord or the iii chord.
+
+      This also works for seventh chords, I-M7 with vi-m7 or iii-m7.
+      The replacement chord will share three notes with the original.
+
+    Major Chord Substitutions
+
+      Replace a major chord with:
+      - Minor chord a third below
+      - Minor 7 chord a third above
+      - Minor chord a third above
+
+    Minor Chord Substitutions
+
+      Replace a minor chord with:
+      - Major chord a third above
+      - Major chord a third below
+      - Major 7 chord a third below
+      - Diminshed chord with the same root (decide for yourself if this is good)
+
+    Dominant Seventh Substitutions
+
+      Replace a dominant seventh chord with:
+      - Major chord a second below
+      - Diminished chord a third below
+      - Diminished chord a third above
+      - Minor 7 chord a fourth below - over the same root
+
+    Functional Substitutions
+
+      There are three basic harmonic functions: the tonic, the subdominant, and the dominant,
+        typically served by the I, IV, and V chords.
+      However there are other chords which fill these roles, though not as strongly.
+
+      Substititions:
+      - Tonic       -- I, iii, vi
+      - Subdominant -- ii, IV, vi
+      - Dominant    -- V, vii-dim
+
+      So, when a chord is fulfilling a function, it can be replaced by another chord filling the same function.
+      Note that the vi chord can work as either a tonic or subdominant.
+
+  Turnaraounds
+
+    A turnaround, or turnback, is typically a two bar phrase, with 2 chords per bar.
+    This "turns around" the music to settle back on the I at the start of the next phrase.
+
+    I   - IV    - iii   - ii
+    I   - vi    - ii    - V
+    iii - VI    - ii    - V
+    I   - vi    - b-vi  - V
+    I   - b-VII - iii   - ii
+    IV  - iii   - ii    - b-ii
+    I   - vi    - b-vi  - b-II
+    I   - VI    - b-V   - b-III
+    I   - b-III - b-VI  - b-II
+    I   - b-VII - b-III - b-II
+
